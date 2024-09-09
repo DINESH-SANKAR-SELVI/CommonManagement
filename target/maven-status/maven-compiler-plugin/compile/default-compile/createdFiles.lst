@@ -1,0 +1,7 @@
+com\DINESH\commonManagement\services\serviceimplements\CommonServiceImplement.class
+com\DINESH\commonManagement\CommonManagementApplication.class
+com\DINESH\commonManagement\controllers\TestSecurityController.class
+com\DINESH\commonManagement\repositories\AutoGenerateSequenceRepo.class
+com\DINESH\commonManagement\controllers\CommonController.class
+com\DINESH\commonManagement\services\CommonService.class
+com\DINESH\commonManagement\entities\AutoGenerateSequence.class
